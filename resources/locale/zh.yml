@@ -1,0 +1,24 @@
+nikovonlas-tg-notify:
+    admin:
+        settings:
+            title: TelegramProvide Settings
+
+            field:
+                botUsername: Bot Username
+                botToken: Bot Token
+                enableNotifications: Enable Notifications
+                enableWidget: Enable Login Widget
+                widgetSize: Button Size
+                widgetSizeLarge: Large
+                widgetSizeMedium: Medium
+                widgetSizeSmall: Small
+                widgetRadius: Button Radius
+                widgetUserPic: Show User Photo
+
+    forum:
+        log_in_with_telegram_button: 使用Telegram登录
+        link_telegram_button: 关联TG账号
+
+        settings:
+            notify_by_telegram_heading: Telegram
+            unblock_telegram_bot: It seems like you did not authorize or blocked the TelegramProvide bot. Send a message to <a>{username}</a> on TelegramProvide to re-enable notifications
