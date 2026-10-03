@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of nikovonlas/flarum-ext-tg-notify.** Not for installation: use [Packagist](https://packagist.org/packages/nikovonlas/flarum-ext-tg-notify) or the [upstream repository](https://github.com/NikoVonLas/flarum-tg-notify).
 
-**0** versions archived · Latest: [`1.1.2`](https://github.com/flarchive/nikovonlas-flarum-ext-tg-notify/tree/archive/v1.1.2) · License: `MIT` · Flarum: `^1.8.0`
+**4** versions archived · Latest: [`1.1.2`](https://github.com/flarchive/nikovonlas-flarum-ext-tg-notify/tree/archive/v1.1.2) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.4` | 2025-02-04 | `^1.8.0` | [Browse](https://github.com/flarchive/nikovonlas-flarum-ext-tg-notify/tree/archive/v1.0.4) |
+| `1.1.0` | 2025-02-04 | `^1.8.0` | [Browse](https://github.com/flarchive/nikovonlas-flarum-ext-tg-notify/tree/archive/v1.1.0) |
+| `1.1.1` | 2025-02-04 | `^1.8.0` | [Browse](https://github.com/flarchive/nikovonlas-flarum-ext-tg-notify/tree/archive/v1.1.1) |
+| `1.1.2` | 2025-04-13 | `^1.8.0` | [Browse](https://github.com/flarchive/nikovonlas-flarum-ext-tg-notify/tree/archive/v1.1.2) |
 
 Catalog entry: [packages/nikovonlas-flarum-ext-tg-notify.json](https://github.com/flarchive/archive-index/blob/main/packages/nikovonlas-flarum-ext-tg-notify.json)
 
